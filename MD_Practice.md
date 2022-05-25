@@ -26,12 +26,14 @@ $ git commit -m "This commit will..succinct but descriptive message
 Co-authored-by: Grace Hopper <github-email@super-programmer.com>
 Co-authored-by: Ada Lovelace <another-gh-email@super-programmer.com>"
 ```
-# After significant changes to the file(s)
+# Add file(s) to Git after significant changes
 ```sh
 $ git add hello-world.html
 ~or~
 $ git add .
-~then~
+```
+# Commit the files(s) to Git and add discriptive message
+```sh
 $ git commit -m "This commit will..succinct but descriptive message
 
 
@@ -40,6 +42,7 @@ Co-authored-by: Ada Lovelace <another-gh-email@super-programmer.com>"
 ```
 # Create a GitHub repository 
 [GitHub.com](https://github.com/) _Use your GitHub account._
+![image](./images/GitHub-Mark-Light-32px.png)
 
 # Tell Git where the remote repository is
 ```sh
