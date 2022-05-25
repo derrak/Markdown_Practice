@@ -38,7 +38,8 @@ $ git commit -m "This commit will..succinct but descriptive message
 Co-authored-by: Grace Hopper <github-email@super-programmer.com>
 Co-authored-by: Ada Lovelace <another-gh-email@super-programmer.com>"
 ```
-# Create a GitHub repository _Using your GitHub account._
+# Create a GitHub repository 
+[GitHub.com](https://github.com/) _Use your GitHub account._
 
 # Tell Git where the remote repository is
 ```sh
